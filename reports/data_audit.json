@@ -1,0 +1,9 @@
+{
+  "raw_rows": 14999,
+  "columns": 10,
+  "duplicate_rows": 3008,
+  "missing_cells": 0,
+  "raw_attrition_rate": 0.2380825388359224,
+  "clean_rows": 11991,
+  "attrition_rate": 0.1660411975648403
+}

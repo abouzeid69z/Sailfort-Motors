@@ -1,0 +1,33 @@
+{
+  "selected_model": "Random forest",
+  "threshold": 0.5,
+  "split": {
+    "train": 7194,
+    "validation": 2398,
+    "test": 2399
+  },
+  "test_metrics": {
+    "accuracy": 0.9829095456440183,
+    "precision": 0.9811320754716981,
+    "recall": 0.914572864321608,
+    "f1": 0.9466840052015605,
+    "roc_auc": 0.9796458554642277,
+    "average_precision": 0.9638667940006974
+  },
+  "confusion_matrix": [
+    [
+      1994,
+      7
+    ],
+    [
+      34,
+      364
+    ]
+  ],
+  "test_prevalence": 0.16590245935806586,
+  "test_ap_bootstrap_95_ci": [
+    0.9482755337356816,
+    0.9772581000929307
+  ],
+  "seed": 42
+}
